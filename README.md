@@ -1,3 +1,5 @@
+
+
 ## SpringBoot 学习案例
 
 ### spring boot 项目初始化
@@ -36,3 +38,79 @@ SPRING 官网提供了一个小工具帮助我们快速完成一个 spring boot 
 
 #### 案例10 : SpringBoot + Redis + SpringSession
 博客地址 : http://blog.csdn.net/u011244202/article/details/60154444
+
+附件
+
+优秀文章和博客
+
+创业互联网公司如何搭建自己的技术框架
+
+微服务实战
+
+单点登录原理与简单实现
+
+ITeye论坛关于权限控制的讨论
+
+RBAC新解：基于资源的权限管理(Resource-Based Access Control)
+
+网站架构经验随笔
+
+支付系统架构
+
+Spring整合JMS
+
+跟我学Shiro目录贴
+
+跟我学SpringMVC目录汇总贴
+
+跟我学spring3 目录贴
+
+跟我学OpenResty(Nginx+Lua)开发目录贴
+
+Redis中文网
+
+读懂Redis并配置主从集群及高可用部署
+
+Redis哨兵-实现Redis高可用
+
+ELK(ElasticSearch, Logstash, Kibana)搭建实时日志分析平台
+
+Nginx基本功能极速入门
+
+mybatis-genarator 自定义插件
+
+Elasticsearch权威指南（中文版）
+
+springMVC对简单对象、Set、List、Map的数据绑定和常见问题.
+
+如何细粒度地控制你的MyBatis二级缓存
+
+做个男人，做个成熟的男人，做个有城府的男人
+
+在线小工具
+
+在线Cron表达式生成器
+
+在线工具 - 程序员的工具箱
+
+在线文档
+
+JDK7英文文档
+
+Spring4.x文档
+
+Mybatis3官网
+
+Dubbo官网
+
+Nginx中文文档
+
+Freemarker在线手册
+
+Velocity在线手册
+
+Bootstrap在线手册
+
+Git官网中文文档
+
+Thymeleaf
